@@ -16,6 +16,15 @@ Our platform is designed for **businesses and freelancers** alike, making it eas
 - **24/7 Support** – Get assistance anytime for a smooth experience.  
 - **Business Solutions** – Tailored features for enterprises and teams.  
 
+## 📸 Screenshots  
+
+| Home Page | Freelancer Profile |  
+|-----------|--------------------|  
+| ![Screenshot 1](assets/1.png) | ![Screenshot 2](assets/2.png) |  
+| ![Screenshot 3](assets/3.png) | ![Screenshot 4](assets/4.png) | 
+| ![Screenshot 5](assets/5.png) | ![Screenshot 6](assets/6.png) |  
+
+
 ## 🚀 Installation  
 
 To set up **TalentHub** on your local machine, follow these steps:  
@@ -54,13 +63,6 @@ npm run dev
 4. **Secure Transactions** – Payments are held safely until work is approved.  
 5. **Review & Rate** – Leave feedback for freelancers and clients to build trust.  
 
-## 📸 Screenshots  
-
-| Home Page | Freelancer Profile |  
-|-----------|--------------------|  
-| ![Screenshot 1](assets/1.png) | ![Screenshot 2](assets/2.png) |  
-| ![Screenshot 3](assets/3.png) | ![Screenshot 4](assets/4.png) | 
-| ![Screenshot 5](assets/5.png) | ![Screenshot 6](assets/6.png) |  
 
 ## 🔧 Tech Stack  
 
