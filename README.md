@@ -1,9 +1,9 @@
-# **TalentHub – Your Go-To Freelance Marketplace**  
+# **TalentLancer – Your Go-To Freelance Marketplace**  
 
-![TalentHub Banner](assets/1.png)  
+![TalentLancer Banner](assets/1.png)  
 
 ## 📌 Overview  
-TalentHub is a **smart and efficient freelance marketplace** that connects businesses with skilled professionals worldwide. Whether you need a **logo design, website development, content writing, or AI-powered services**, TalentHub ensures **quality work, secure payments, and quick hiring**.  
+TalentLancer is a **smart and efficient freelance marketplace** that connects businesses with skilled professionals worldwide. Whether you need a **logo design, website development, content writing, or AI-powered services**, TalentLancer ensures **quality work, secure payments, and quick hiring**.  
 
 Our platform is designed for **businesses and freelancers** alike, making it easy to find and offer services with just a few clicks.  
 
@@ -27,13 +27,13 @@ Our platform is designed for **businesses and freelancers** alike, making it eas
 
 ## 🚀 Installation  
 
-To set up **TalentHub** on your local machine, follow these steps:  
+To set up **TalentLancer** on your local machine, follow these steps:  
 
 ### Backend Setup  
 
 ```bash
 # Navigate to the backend directory
-cd TalentHub-API
+cd TalentLancer-API
 
 # Install dependencies
 npm install
@@ -46,7 +46,7 @@ node server.js
 
 ```bash
 # Navigate to the frontend directory
-cd TalentHub-FE
+cd TalentLancer-FE
 
 # Install dependencies
 npm install
@@ -76,7 +76,7 @@ npm run dev
 For any queries or support, feel free to contact:  
 
 📧 Email: sayan1311m@gmail.com
-🌐 Website: [TalentHub](https://talenthub.com)  
+🌐 Website: [TalentLancer](https://TalentLancer.com)  
 
 ## ⭐ Contributing  
 
