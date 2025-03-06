@@ -76,7 +76,7 @@ npm run dev
 For any queries or support, feel free to contact:  
 
 📧 Email: sayan1311m@gmail.com
-🌐 Website: [TalentLancer](https://TalentLancer.com)  
+🌐 Website: [TalentLancer](talentlancer.vercel.app)  
 
 ## ⭐ Contributing  
 
